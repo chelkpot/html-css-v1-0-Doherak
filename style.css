@@ -1,0 +1,25 @@
+body{
+    background-color: blueviolet;
+}
+h1{
+    color:seagreen;
+}
+p1{
+    font-family: Gill Sans;
+    font-size: 30px;
+}
+.pon{
+    color:burlywood;
+    background-color: saddlebrown;
+}
+#lol{
+    background-color: brown;
+}
+#top{
+    color:coral;
+}
+.not{
+    font-size: 20px;
+    font-family: Courier New;
+    color:darkorange;
+}
